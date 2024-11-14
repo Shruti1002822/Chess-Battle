@@ -1,0 +1,18 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Chess-Duel is a real-time chess game implemented using Node.js, Express, and Socket.io, with a front-end built in plain JavaScript. Players can engage in a duel by connecting to the server and making moves, while spectators can watch the game in progress.",
+  "dependencies": {
+    "chess.js": "^1.0.0-beta.8",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
