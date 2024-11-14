@@ -1,4 +1,4 @@
-# Chess-Duel
+# Chess-Battle
 
 Chess-Duel is a real-time chess game implemented using Node.js, Express, and Socket.io, with a front-end built in plain JavaScript. Players can engage in a duel by connecting to the server and making moves, while spectators can watch the game in progress.
 
